@@ -1,0 +1,36 @@
+body{
+    background-color:hsl(30, 54%, 90%)
+}
+.container {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 0 auto;
+    width: 500px;
+    text-align: left;
+    
+}
+.container img {
+    width: 100%; /* Ajusta el ancho de la imagen al 100% del contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+    object-fit: cover; /* La imagen cubrirá todo el contenedor sin distorsionarse */
+}
+
+.prepa {
+    background-color:hsl(330, 100%, 98%);
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.color {
+    color:hsl(332, 51%, 32%)
+}
+
+.color-b {
+    color: hsl(14, 45%, 36%)
+
+}
+.Intructions ol li {
+    margin: 10px;
+}
